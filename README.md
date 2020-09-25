@@ -1,4 +1,4 @@
-# Events App
+# EventsApp
 
 ## Description
 The EventsApp is a platform for people to search and register for events, parties and concerts. Participate in the events you want, enter your email address and get invitations to the event in your email inbox.
@@ -22,4 +22,4 @@ The EventsApp is a platform for people to search and register for events, partie
 * MomentJS,etc.
 
 ## Showcase
-<img src="Images/Image1.png" height="420"> <img src="Images/Image2.png" height="420"> <img src="Images/Image3.png" height="420"> <img src="Images/Image4.png" height="420"> 
+<img src="Images/Image1.jpg" height="420"> <img src="Images/Image2.jpg" height="420"> <img src="Images/Image3.jpg" height="420"> <img src="Images/Image4.jpg" height="420"> 
